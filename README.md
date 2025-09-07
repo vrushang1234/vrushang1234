@@ -17,7 +17,7 @@ I like working at the intersection of **systems, AI, and embedded systems** — 
 
 - 🧠 [RL Scheduler](https://github.com/vrushang1234/arch-kernel) — Reinforcement Learning–powered Linux process scheduler
 - ⚡ [FPGA HFT Engine](https://github.com/vrushang1234/hft-system) — Verilog + C low-latency, RL-powered order matcher
-- 🖥️ [Termy](https://github.com/vrushang1234/Termy) — OpenGL-powered terminal emulator  
+- 🖥️ [Termy](https://github.com/vrushang1234/Termy) — Fast, modern terminal emulator with custom UI, powered by OpenGL 
 - 🔋 [PikaPower](https://github.com/vrushang1234/PikaPower) — P2P energy trading system running on Raspberry Pi
 
 ---
