@@ -23,8 +23,8 @@ I like working at the intersection of **systems, AI, and embedded systems** — 
 ---
 
 ### ⚙️ Configs
-- 📝 [Neovim Config](https://github.com/vrushang1234/nvim-config)
-- 💻 [Hyprland Config](https://github.com/vrushang1234/hyprland-config)
+- 📝 [Neovim Config](https://github.com/vrushang1234/nvim)
+- 💻 [Hyprland Config](https://github.com/vrushang1234/dotfiles)
 
 ---
 ### 📊 GitHub Overview
