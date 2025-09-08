@@ -23,8 +23,8 @@ I like working at the intersection of **systems, AI, and embedded systems** — 
 ---
 
 ### ⚙️ Configs
-- 📝 [Neovim Config](https://github.com/vrushang1234/nvim-config) — minimal, Lua-based setup optimized for coding  
-- 💻 [Hyprland Config](https://github.com/vrushang1234/hyprland-config) — clean Wayland tiling WM setup with custom theming
+- 📝 [Neovim Config](https://github.com/vrushang1234/nvim-config)
+- 💻 [Hyprland Config](https://github.com/vrushang1234/hyprland-config)
 
 ---
 ### 📊 GitHub Overview
