@@ -22,10 +22,16 @@ I like working at the intersection of **systems, AI, and embedded systems** — 
 
 ---
 
+### 📝 Publications
+
+- [HyperXite 9](https://escholarship.org/uc/item/532817sx#main) — University publication for winning the best senior design project 2024
+
+---
+
 ### ⚙️ Configs
 - 📝 [Neovim Config](https://github.com/vrushang1234/nvim)
 - 💻 [Hyprland Config](https://github.com/vrushang1234/dotfiles)
 
 ---
 ### 📊 GitHub Overview
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vrushang1234&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vrushang1234&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true)&emsp;&emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushang1234&size_weight=0.3&count_weight=0.7&hide=makefile,css,shell,html&layout=compact&hide_progress=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
