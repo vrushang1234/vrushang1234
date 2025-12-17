@@ -34,4 +34,4 @@ I like working at the intersection of **systems, AI, and embedded systems** — 
 
 ---
 ### 📊 GitHub Overview
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vrushang1234&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true)&emsp;&emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushang1234&size_weight=0.3&count_weight=0.7&hide=makefile,css,shell,html&layout=compact&hide_progress=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vrushang1234&show_icons=true&theme=radical&rank_icon=github&)&emsp;&emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushang1234&size_weight=0.3&count_weight=0.7&hide=makefile,css,shell,html&layout=compact&hide_progress=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
