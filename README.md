@@ -22,7 +22,7 @@ I like working at the intersection of **systems, AI, and embedded systems** — 
 
 ---
 
-### 📝 Publications
+### 📝 Publications/Posters
 
 - [HyperXite 9](https://escholarship.org/uc/item/532817sx#main) — University publication for winning the best senior design project 2024
 
