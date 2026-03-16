@@ -17,9 +17,7 @@ I like working at the intersection of **systems, AI, and embedded systems** — 
 
 - 🧠 [RL Scheduler](https://github.com/vrushang1234/arch-kernel) — Reinforcement Learning–powered Linux process scheduler
 - ⚡ [FPGA HFT Engine](https://github.com/vrushang1234/hft-system) — Verilog + C low-latency, RL-powered order matcher
-- 🖥️ [vishyOS](https://github.com/vrushang1234/vishyOS) — Rust based hobby kernel for x86 systems 
-- 🔋 [PikaPower](https://github.com/vrushang1234/PikaPower) — P2P energy trading system running on Raspberry Pi
-
+- 🖥️ [vishyOS](https://github.com/vrushang1234/vishyOS) — Rust based hobby kernel for x86 systems
 ---
 
 ### 📝 Publications/Posters
