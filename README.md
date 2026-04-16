@@ -1,4 +1,4 @@
-### Hi, I’m Vrushang 👋
+### Hi, I’m Vrushang
 I like working at the intersection of **systems, AI, and embedded systems** — building schedulers, simulators, and FPGA-accelerated systems. This GitHub is mainly a place to share my code and experiments.
 <br /><br />Currently, I am building projects at the intersection of **kernel, reinforcement learning, and FPGA acceleration**.
 
